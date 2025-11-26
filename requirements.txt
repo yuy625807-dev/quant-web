@@ -1,0 +1,7 @@
+dash
+pandas
+ccxt
+plotly
+flask
+gunicorn
+requests
